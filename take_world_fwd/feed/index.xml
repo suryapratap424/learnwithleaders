@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Take the World Forward Archive - Learn with leaders</title>
+	<atom:link href="/take_world_fwd/feed/" rel="self" type="application/rss+xml" />
+	<link>/take_world_fwd/</link>
+	<description></description>
+	<lastBuildDate>Fri, 17 Jun 2022 10:45:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Build an Illustrious Profile</title>
+		<link>/take_world_fwd/build-an-illustrious-profile/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=build-an-illustrious-profile</link>
+					<comments>/take_world_fwd/build-an-illustrious-profile/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 17 Jun 2022 10:44:52 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=take_world_fwd#038;p=5208</guid>
+
+					<description><![CDATA[<p>The powerful combination of having a research paper and a leadership project while still in high-school is a feat made possible by the Impact and Research Fellowship. Sharpen your profile and resume to impress college admission committees, future recruiters and more!</p>
+<p>The post <a href="/take_world_fwd/build-an-illustrious-profile/">Build an Illustrious Profile</a> appeared first on <a href="/">Learn with leaders</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The powerful combination of having a research paper and a leadership project while still in high-school is a feat made possible by the Impact and Research Fellowship. Sharpen your profile and resume to impress college admission committees, future recruiters and more!</p>
+<p>The post <a href="/take_world_fwd/build-an-illustrious-profile/">Build an Illustrious Profile</a> appeared first on <a href="/">Learn with leaders</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/take_world_fwd/build-an-illustrious-profile/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

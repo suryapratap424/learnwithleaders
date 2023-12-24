@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blogs Archive - Learn with leaders</title>
+	<atom:link href="/blogs/feed/" rel="self" type="application/rss+xml" />
+	<link>/blogs/</link>
+	<description></description>
+	<lastBuildDate>Sat, 18 Jun 2022 16:18:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Test1</title>
+		<link>/blogs/test1/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=test1</link>
+					<comments>/blogs/test1/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 27 May 2022 08:17:33 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=blogs#038;p=3155</guid>
+
+					<description><![CDATA[<p>this is test this is test this is test this is test</p>
+<p>The post <a href="/blogs/test1/">Test1</a> appeared first on <a href="/">Learn with leaders</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>this is test this is test this is test this is test</p>
+<p>The post <a href="/blogs/test1/">Test1</a> appeared first on <a href="/">Learn with leaders</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blogs/test1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New blog from student</title>
+		<link>/blogs/new-blog-from-student/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=new-blog-from-student</link>
+					<comments>/blogs/new-blog-from-student/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 26 May 2022 11:16:13 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=blogs#038;p=3087</guid>
+
+					<description><![CDATA[<p>It is very nice letcher session with praveen</p>
+<p>The post <a href="/blogs/new-blog-from-student/">New blog from student</a> appeared first on <a href="/">Learn with leaders</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>It is very nice letcher session with praveen</p>
+<p>The post <a href="/blogs/new-blog-from-student/">New blog from student</a> appeared first on <a href="/">Learn with leaders</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blogs/new-blog-from-student/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

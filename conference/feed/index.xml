@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Conference Archive - Learn with leaders</title>
+	<atom:link href="/conference/feed/" rel="self" type="application/rss+xml" />
+	<link>/conference/</link>
+	<description></description>
+	<lastBuildDate>Tue, 12 Dec 2023 15:54:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>The International Teen Researchers Conference 2024</title>
+		<link>/conference/international-teen-researchers-conference/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=international-teen-researchers-conference</link>
+					<comments>/conference/international-teen-researchers-conference/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 12 Dec 2023 12:17:59 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=conference#038;p=14265</guid>
+
+					<description><![CDATA[<p>Steered by Learn With Leaders, ITRC is a platform for High School Researchers and Ideators. As the global leader in Research studies for High School students, Learn With Leaders has transformed thousands of teenagers into adept published researchers in the Ivy League mold, with Harvard University undergraduates mentoring them.</p>
+<p>The post <a href="/conference/international-teen-researchers-conference/">The International Teen Researchers Conference 2024</a> appeared first on <a href="/">Learn with leaders</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p class="western"><span style="font-weight: 400;">Steered by Learn With Leaders, ITRC is a platform for High School Researchers and Ideators. As the global leader in Research studies for High School students, Learn With Leaders has transformed thousands of teenagers into adept published researchers in the Ivy League mold, with Harvard University undergraduates mentoring them.</span></p>
+<p>The post <a href="/conference/international-teen-researchers-conference/">The International Teen Researchers Conference 2024</a> appeared first on <a href="/">Learn with leaders</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/conference/international-teen-researchers-conference/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Model United Nations (MUN) by Harvard Model Congress (HMC)</title>
+		<link>/conference/model-united-nations-mun-by-hmc/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=model-united-nations-mun-by-hmc</link>
+					<comments>/conference/model-united-nations-mun-by-hmc/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 20 Feb 2023 08:11:08 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=conference#038;p=8669</guid>
+
+					<description><![CDATA[<p>Learn about international relations and solve global issues.</p>
+<p>The post <a href="/conference/model-united-nations-mun-by-hmc/">Model United Nations (MUN) by Harvard Model Congress (HMC)</a> appeared first on <a href="/">Learn with leaders</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p class="western"><span style="color: #000000;">Learn about international relations and solve global issues.</span></p>
+<p>The post <a href="/conference/model-united-nations-mun-by-hmc/">Model United Nations (MUN) by Harvard Model Congress (HMC)</a> appeared first on <a href="/">Learn with leaders</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/conference/model-united-nations-mun-by-hmc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Student Success Stories Archive - Learn with leaders</title>
+	<atom:link href="/stu_success_stories/feed/" rel="self" type="application/rss+xml" />
+	<link>/stu_success_stories/</link>
+	<description></description>
+	<lastBuildDate>Fri, 27 May 2022 08:22:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Student test</title>
+		<link>/stu_success_stories/student-test/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=student-test</link>
+					<comments>/stu_success_stories/student-test/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 27 May 2022 08:22:48 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=stu_success_stories#038;p=3158</guid>
+
+					<description><![CDATA[<p>this is test this is test this is test this is test</p>
+<p>The post <a href="/stu_success_stories/student-test/">Student test</a> appeared first on <a href="/">Learn with leaders</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>this is test this is test this is test this is test</p>
+<p>The post <a href="/stu_success_stories/student-test/">Student test</a> appeared first on <a href="/">Learn with leaders</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/stu_success_stories/student-test/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Success story about student</title>
+		<link>/stu_success_stories/success-story-about-student/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=success-story-about-student</link>
+					<comments>/stu_success_stories/success-story-about-student/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 26 May 2022 11:20:11 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=stu_success_stories#038;p=3090</guid>
+
+					<description><![CDATA[<p>New marks are set for future students..</p>
+<p>The post <a href="/stu_success_stories/success-story-about-student/">Success story about student</a> appeared first on <a href="/">Learn with leaders</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>New marks are set for future students..<img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-2478" src="/wp-content/uploads/2022/05/1440x600-4.jpg" alt="MINI MBA Program" width="756" height="316" srcset="/wp-content/uploads/2022/05/1440x600-4-200x84.jpg 200w, /wp-content/uploads/2022/05/1440x600-4-300x125.jpg 300w, /wp-content/uploads/2022/05/1440x600-4-400x167.jpg 400w, /wp-content/uploads/2022/05/1440x600-4-600x251.jpg 600w, /wp-content/uploads/2022/05/1440x600-4.jpg 756w" sizes="(max-width: 756px) 100vw, 756px" /></p>
+<p>The post <a href="/stu_success_stories/success-story-about-student/">Success story about student</a> appeared first on <a href="/">Learn with leaders</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/stu_success_stories/success-story-about-student/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

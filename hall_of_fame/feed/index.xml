@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hall of Fame Archive - Learn with leaders</title>
+	<atom:link href="/hall_of_fame/feed/" rel="self" type="application/rss+xml" />
+	<link>/hall_of_fame/</link>
+	<description></description>
+	<lastBuildDate>Fri, 27 May 2022 08:24:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Hall Of Frame test</title>
+		<link>/hall_of_fame/hall-of-frame-test/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=hall-of-frame-test</link>
+					<comments>/hall_of_fame/hall-of-frame-test/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 27 May 2022 08:24:34 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=hall_of_fame#038;p=3160</guid>
+
+					<description><![CDATA[<p>this is test this is test this is test this is test this is test</p>
+<p>The post <a href="/hall_of_fame/hall-of-frame-test/">Hall Of Frame test</a> appeared first on <a href="/">Learn with leaders</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>this is test this is test this is test this is test this is test</p>
+<p>The post <a href="/hall_of_fame/hall-of-frame-test/">Hall Of Frame test</a> appeared first on <a href="/">Learn with leaders</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hall_of_fame/hall-of-frame-test/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New hall of fame record</title>
+		<link>/hall_of_fame/new-hall-of-fame-record/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=new-hall-of-fame-record</link>
+					<comments>/hall_of_fame/new-hall-of-fame-record/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 26 May 2022 11:23:14 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=hall_of_fame#038;p=3095</guid>
+
+					<description><![CDATA[<p>New records from the hall record fame</p>
+<p>The post <a href="/hall_of_fame/new-hall-of-fame-record/">New hall of fame record</a> appeared first on <a href="/">Learn with leaders</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>New records from the hall record fame</p>
+<p><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-1680" src="/wp-content/uploads/2022/05/Rectangle-408-1.png" alt="" width="924" height="581" srcset="/wp-content/uploads/2022/05/Rectangle-408-1-200x126.png 200w, /wp-content/uploads/2022/05/Rectangle-408-1-300x189.png 300w, /wp-content/uploads/2022/05/Rectangle-408-1-320x202.png 320w, /wp-content/uploads/2022/05/Rectangle-408-1-400x252.png 400w, /wp-content/uploads/2022/05/Rectangle-408-1-600x377.png 600w, /wp-content/uploads/2022/05/Rectangle-408-1-700x441.png 700w, /wp-content/uploads/2022/05/Rectangle-408-1-768x483.png 768w, /wp-content/uploads/2022/05/Rectangle-408-1-800x503.png 800w, /wp-content/uploads/2022/05/Rectangle-408-1.png 924w" sizes="(max-width: 924px) 100vw, 924px" /></p>
+<p>The post <a href="/hall_of_fame/new-hall-of-fame-record/">New hall of fame record</a> appeared first on <a href="/">Learn with leaders</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hall_of_fame/new-hall-of-fame-record/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
